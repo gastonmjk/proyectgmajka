@@ -1,0 +1,125 @@
+html{
+    font-family: 'Montserrat', sans-serif; }
+    
+  
+   
+
+    body{
+        background-color: #96c1e6;
+        
+        }
+        header{
+            
+            
+            /* position: relative; */
+            background: linear-gradient(90deg, rgba(2,63,139,1) 30%, rgba(159,159,242,1) 68%, rgba(0,212,255,1) 100%);
+            background-color: darkslateblue;
+            border: 2px white solid;
+            border-radius: 10px;
+            padding: 10px;
+        }
+
+        
+
+        #logo{
+            border-radius: 50%;
+            /* display: inline-block;
+            position: absolute;*/
+        } 
+        .inicio{
+            width:60vw;
+           
+            margin-left:240px;
+            color: #96c1e6;
+
+        }
+        .titulo__presentacion{
+            text-align: center;
+            
+            color: white;
+            
+
+        }
+        #titulo {
+            text-align: center;
+            font-size: 35px;
+            margin-top: 10px;
+            margin-bottom:10px;
+            
+        }
+
+        #titulo2{
+            text-align: center;
+            font-size: 15px;
+            margin-top: 10px;
+            margin-bottom:10px;
+            padding-left: 10px;
+            padding-right: 20px
+        }
+        #inicio{
+
+            background-color: #96c1e6;
+            width: 40vw;
+            color: rgb(17, 14, 14);
+            text-align: center;
+            font-size: 12px;
+           
+            border: 2px black solid;
+            border-radius: 10px;
+        }
+        #titulo3{
+            margin: 2px;
+            font-size: 15px;
+            text-align: center;
+        }
+
+         #footer{
+            text-align: center !important; 
+            background: linear-gradient(30deg, rgba(155,151,230,1) 30%, rgba(159,242,171,0.3757878151260504) 68%, rgba(140,203,215,1) 100%);
+            font-size: 15px;
+            width: 70%;
+            border: 2px black solid;
+            border-radius: 5px; 
+            margin-top: 15px;  }
+
+            #Staff {
+                width: 90%;
+                border: 2px black solid;
+                color: white;
+                text-align: center;
+                font-size: 30px;
+                margin: 20px 15px 25px 60px;
+                background-color: darkslateblue;
+            }
+            
+        main{
+           
+            background: linear-gradient(90deg, rgba(2,63,139,1) 30%, rgba(159,159,242,1) 68%, rgba(0,212,255,1) 100%);
+            margin-top: 20px;  
+            margin-left: 40px;
+            margin-right: 40px;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border: 5px rgb(99, 99, 189) solid;
+
+            
+        }
+        main div h3{
+            font-size: 30px;
+         }
+        main div p{
+            margin: 10px;
+         }
+        
+        #Staff {
+            width: 90%;
+            border: 2px black solid;
+            color: white;
+            text-align: center;
+            font-size: 30px;
+            margin: 20px 15px 25px 60px;
+            background-color: darkslateblue;
+        }
+        table{ background: linear-gradient(30deg, rgba(155,151,230,1) 30%, rgba(159,242,171,0.3757878151260504) 68%, rgba(140,203,215,1) 100%);}
+        table, th,tr:hover {background-color:dodgerblue;}
+       
